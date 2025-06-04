@@ -5,7 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Example PDF files
     const pdfFiles = [
         { name: 'Document 1', path: 'pdfs/document1.pdf' },
-        { name: 'Document 2', path: 'pdfs/document2.pdf' }
+        { name: 'Document 2', path: 'pdfs/document2.pdf' },
+        { name: 'Document 3', path: 'pdfs/document3.pdf' }
     ];
 
     // Example Markdown files
